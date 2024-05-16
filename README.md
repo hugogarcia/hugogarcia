@@ -14,11 +14,10 @@ A **Backend Engineer** from Cianorte, Brazil.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Software Engineer at [Grupo SBF](https://www.linkedin.com/company/grupo-sbf-s-a-/mycompany/).
-- 🌱 I’m currently learning ReactJS, trying to become a Full Stack Engineer. 
+- 👨🏽‍💻 I’m currently working as a Software Engineer at [Grupo SBF](https://www.linkedin.com/company/grupo-sbf-s-a-/mycompany/). 
 - 🤔 My interests are Web APIs.
 - 📫 Email me at [hugosg50@hotmail.com](mailto:hugosg50@hotmail.com).
-- 📝 See my [CV](https://drive.google.com/file/d/11xadDztEsxVo74BoMBrKhfb-mfXipeoZ/view?usp=sharing) to get more info.
+- 📝 See my [CV](https://docs.google.com/document/d/1_Jk9qVIDoSQl1dWfNnrwALum3skObr6HZ6wAxIAl-AQ/edit?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
