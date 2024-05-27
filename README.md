@@ -43,4 +43,5 @@ A **Backend Engineer** from Cianorte, Brazil.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=hugogarcia&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Hugo's GitHub Stats">
+<img src="https://github-readme-stats-one-rho-75.vercel.app/api?username=hugogarcia&show_icons=true&hide_border=true&count_private=true&theme=merko&icon_color=fad000" alt="Hugo's GitHub Stats">
+<img src="https://github-readme-stats-one-rho-75.vercel.app/api/top-langs?username=hugogarcia&show_icons=true&theme=merko&langs_count=3">
