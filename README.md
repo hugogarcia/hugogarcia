@@ -9,15 +9,11 @@
 
 A **Backend Engineer** from Cianorte, Brazil.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Software Engineer at [Will Bank](https://br.linkedin.com/company/eusouwillbank). 
 - 🤔 My interests are Web APIs.
 - 📫 Email me at [hugosg50@hotmail.com](mailto:hugosg50@hotmail.com).
-- 📝 See my [CV](https://docs.google.com/document/d/1_Jk9qVIDoSQl1dWfNnrwALum3skObr6HZ6wAxIAl-AQ/edit?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
