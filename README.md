@@ -11,7 +11,7 @@ A **Backend Engineer** from Cianorte, Brazil.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Software Engineer at [Will Bank](https://br.linkedin.com/company/eusouwillbank). 
+- 👨🏽‍💻 I’m currently working as a Software Engineer at [Serena](https://br.linkedin.com/company/serenaenergy). 
 - 🤔 My interests are Web APIs.
 - 📫 Email me at [hugosg50@hotmail.com](mailto:hugosg50@hotmail.com).
 
@@ -20,8 +20,6 @@ A **Backend Engineer** from Cianorte, Brazil.
 
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"></code>
-<code><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg"></code>
-<code><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg"></code>
 
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg"></code>
